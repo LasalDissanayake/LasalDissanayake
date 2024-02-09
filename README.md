@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/lasal__dissanayake/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Lasal Dissanayake Instagram" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/1191641068505153546" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Lasal Dissanayake Discord" height="50" width="50" /></a>  
   <a href="https://twitter.com/lasal_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lasal_m" height="50" width="50" /></a>
-  <a href="https://www.hackerrank.com/@lasalmdissanaya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lasalmdissanaya1" height="50" width="50" /></a>
+  <a href="https://www.hackerrank.com/profile/lasalmdissanaya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lasalmdissanaya1" height="50" width="50" /></a>
 </p>
 </td>
 <td width="50%" align="center">
