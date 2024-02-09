@@ -2,11 +2,8 @@
 <h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Lasal Dissanayake </h1>
 <h3 align="center">A passionate IT Student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lasaldissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="lasaldissanayake" /> </p>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="" left="150" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-<a target="_blank" align="right">
-  <img align="right"  top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+
 
 <table align="center">
 <tr border="none">
@@ -67,23 +64,20 @@
   
 </p>
 
-<!--- stats & Trophy (start) -->
-<p align="left">
-  <!--- stats (start) -->
+<h3 align="center">My Statistics:</h3>
+<p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LasalDissanayake&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LasalDissanayake&theme=dark&hide_border=false" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LasalDissanayake&show_icons=true&locale=en&theme=dark" alt="iamsahan" />
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LasalDissanayake&theme=dark" alt="iamsahan" />
 </td>
-
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LasalDissanayake&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LasalDissanayake&hide_border=false&no-frame=true&langs_count=10&theme=dark"/>
   
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
